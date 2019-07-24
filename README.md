@@ -7,7 +7,7 @@ Nous allons creer le model, la vue et le controlleur (dont le code est joint) ce
 
 ensuite nous allons joindre cettre interface graphique a la place du console qui va nous permettre d'avoir ce joyaux :bowtie: :bowtie:
 
-
+Conversion de celsius à fharenheit
 
 ![GraphiqueImg](https://github.com/Kabore-Donatien-Gueswende/Patron_MVC/blob/master/img/Celsius.PNG)
 
@@ -15,7 +15,7 @@ ensuite nous allons joindre cettre interface graphique a la place du console qui
 
 
 
-
+conversion de fharenheit à celsius
 
 ![GraphiqueImg](https://github.com/Kabore-Donatien-Gueswende/Patron_MVC/blob/master/img/Farent.PNG)
 
